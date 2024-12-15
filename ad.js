@@ -4,7 +4,7 @@ let adSites = new Map();
 
 adSites.set(0, {
   link: "https://flebooks.netlify.app",
-  logo: "icon.png",
+  logo: "https://flebooks.netlify.app/img/icon.png",
   title: "Flebooks",
   color: "#fddf89",
   description: "Read or download any ebooks for free in flebooks. You can Suggest books, And this site contains books in Malayalam english, Hindi and etc.",
@@ -12,7 +12,7 @@ adSites.set(0, {
 
 adSites.set(1, {
   link: "https://flesearch.netlify.app",
-  logo: "icon2.png",
+  logo: "https://flesearch.netlify.app/img/icon.png",
   title: "Flesearch",
   color: "#36ffbf",
   description: "Search for anything in the world for free in this website. you can search Books, Movies etc.",
