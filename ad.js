@@ -140,9 +140,7 @@ function showPopup() {
   
 }  
 
-showPopup();
-
-// setInterval(showPopup, 100000);
+setInterval(showPopup, 100000);
 
 function closePopup() {
     body.removeChild(document.getElementById('popup'));
