@@ -141,7 +141,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     // Show popup every 100 seconds
-    setInterval(showPopup, 1000);
+    setInterval(showPopup, 100000);
 });
 
 // Define closePopup globally
